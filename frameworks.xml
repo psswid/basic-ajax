@@ -1,0 +1,20 @@
+<frameworks>
+  <opt>
+    <name>CodeIgniter</name>
+  </opt>
+  <opt>
+    <name>Zend</name>
+  </opt>
+  <opt>
+    <name>Cake PHP</name>
+  </opt>
+  <opt>
+    <name>Kohana</name>
+  </opt>
+  <opt>
+    <name>Laravel</name>
+  </opt>
+  <opt>
+    <name>Symphony</name>
+  </opt>
+</frameworks>
