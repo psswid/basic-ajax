@@ -1,4 +1,4 @@
-# basic-ajax
+# basic-ajax-search-engine
 
 Application written in purpose to understand basics of ajax.
 
